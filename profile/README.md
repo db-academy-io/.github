@@ -1,11 +1,13 @@
-## Hi there 👋
+## Welcome to the db-academy.io 🙌
+
+🙋‍♀️ db-academy.io is a educatinal portal around database internals. Visit [db-academy.io](https://db-academy.io)
+
+<!--
+👀 Contribution guidelines - how do team members dive in?
 
 
-**Here are some ideas to get you started:**
+👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+🍪 Fun facts - what is your team's favorite snack?
+-->
