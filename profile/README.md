@@ -1,6 +1,6 @@
 ## Welcome to the db-academy.io 🙌
 
-🙋‍♀️ db-academy.io is a educatinal portal around database internals. Visit [db-academy.io](https://db-academy.io)
+🙋‍♀️ db-academy.io is an educational portal around database internals. Visit [db-academy.io](https://db-academy.io)
 
 <!--
 👀 Contribution guidelines - how do team members dive in?
